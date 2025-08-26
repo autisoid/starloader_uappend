@@ -9,7 +9,7 @@ The artifact will be in `sl_uappend\Debug` or `sl_uappend\Release` folder.
 Rename `sl_uappend.dll` into `sl_uappend.asi` and follow `HOW TO INSTALL`
 
 # HOW TO INSTALL
-Either follow `HOW TO BUILD` to build an artifact~~, or download one from Releases~~.
+Either follow `HOW TO BUILD` to build an artifact<del>, or download one from Releases</del>.
 
 This plugin requires any .asi loader in order to be loaded, if you don't have any you can use mine -- https://github.com/autisoid/StarLoader
 
